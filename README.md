@@ -7,11 +7,9 @@
 </head>
 
   <body data-spy="scroll" data-target="#toc">
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark mdg-nav">
-  <div class="container">
-    <a class="navbar-brand" href="/" style="margin-top: 2px; margin-bottom: 3px">
-      <img src="https://d33wubrfki0l68.cloudfront.net/f1f475a6fda1c2c4be4cac04033db5c3293032b4/513a4/assets/images/markdown-mark-white.svg" height="23" width="47" class="d-inline-block align-top" alt="Markdown Guide" style="margin-top: 4px; padding-right: 10px">
-     </a>
+
+<h2>Learn Markdown </h2> 
+<a href="https://kavidu-dilhara.gitbook.io/learn-markdown/"><img src="https://pronunciationapp.com/wp-content/uploads/2020/02/click-here-button-gif-1-1.gif"></a>
 
  <h2 id="what-is-markdown">What is Markdown?</h2>
 
